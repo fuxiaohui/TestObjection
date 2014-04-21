@@ -1,0 +1,10 @@
+PODS:
+  - Objection (1.4)
+
+DEPENDENCIES:
+  - Objection (~> 1.4)
+
+SPEC CHECKSUMS:
+  Objection: 73024a5572e6d14276289ed3761039476d746c39
+
+COCOAPODS: 0.32.1
